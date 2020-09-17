@@ -14,7 +14,7 @@ document.addEventListener("keydown", function(e) {
 
 
 function moveDodgerLeft() {
-
+dodger.style.left - 1;
 
 }
 

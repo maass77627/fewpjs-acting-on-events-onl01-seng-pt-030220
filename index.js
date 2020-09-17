@@ -14,6 +14,7 @@ document.addEventListener("keydown", function(e) {
 
 
 function moveDodgerLeft() {
+  
 
 }
 
